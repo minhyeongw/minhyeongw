@@ -1,4 +1,4 @@
-## Welcome To My Github 👋
+## MinHyeong's World🎶🤓
 
 <img src = "https://capsule-render.vercel.app/api?type=blur&color=gradient&height=200&section=header&text=minung&fontSize=90%&animation=fadeln&fontColor=100d0d"/>
 
